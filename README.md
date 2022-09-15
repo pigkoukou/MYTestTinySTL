@@ -17,12 +17,12 @@
 
 ## 运行
 
-如果你想要运行测试，请先阅读 [这个](https://github.com/Alinshans/MyTinySTL/blob/master/Test/README.md) 。
+如果你想要运行测试，请先阅读 [这个](https://github.com/pigkoukou/MyTinySTL/blob/master/Test/README.md) 。
 
   * gcc/clang on linux/osx
   1. 克隆仓库
 ```bash
-$ git clone git@github.com:Alinshans/MyTinySTL.git
+$ git clone git@github.com:pigkoukou/MyTinySTL.git
 $ cd MyTinySTL
 ```
   2. 构建并运行
@@ -34,11 +34,11 @@ $ cd ../bin && ./stltest
 ```
 
   * msvc on windows
-  1. 克隆仓库或 [Download ZIP](https://github.com/Alinshans/MyTinySTL/archive/master.zip)
+  1. 克隆仓库或 [Download ZIP](https://github.com/pigkoukou/MyTinySTL/archive/master.zip)
   2. 使用 `vs2015`（或 `vs2017`）打开 `MSVC/MyTinySTL_VS2015.sln`，配置成 `Release` 模式，（Ctrl + F5）开始执行。
   
 ## 文档
-  见 [Wiki](https://github.com/Alinshans/MyTinySTL/wiki)。
+  见 [Wiki](https://github.com/pigkoukou/MyTinySTL/wiki)。
 
 ## 测试
   见 [Test](https://github.com/Alinshans/MyTinySTL/tree/master/Test)。
