@@ -17,8 +17,7 @@
 
 ## 运行
 
-如果你想要运行测试，请先阅读 [这个](https://github.com/pigkoukou/MYTestTinySTL
-/blob/master/Test/README.md) 。
+如果你想要运行测试，请先阅读 [这个](https://github.com/pigkoukou/MYTestTinySTL/tree/main/MyTinySTL-master/Test/README.md) 。
 
   * gcc/clang on linux/osx
   1. 克隆仓库
