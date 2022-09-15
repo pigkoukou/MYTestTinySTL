@@ -40,8 +40,7 @@ $ cd ../bin && ./stltest
   2. 使用 `vs2015`（或 `vs2017`）打开 `MSVC/MyTinySTL_VS2015.sln`，配置成 `Release` 模式，（Ctrl + F5）开始执行。
   
 ## 文档
-  见 [Wiki](https://github.com/pigkoukou/MYTestTinySTL
-/wiki)。
+  见 [Wiki](https://github.com/pigkoukou/MYTestTinySTL/wiki)。
 
 ## 测试
   见 [Test](https://github.com/pigkoukou/MYTestTinySTL
