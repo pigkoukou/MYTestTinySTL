@@ -17,12 +17,14 @@
 
 ## 运行
 
-如果你想要运行测试，请先阅读 [这个](https://github.com/pigkoukou/MyTinySTL/blob/master/Test/README.md) 。
+如果你想要运行测试，请先阅读 [这个](https://github.com/pigkoukou/MYTestTinySTL
+/blob/master/Test/README.md) 。
 
   * gcc/clang on linux/osx
   1. 克隆仓库
 ```bash
-$ git clone git@github.com:pigkoukou/MyTinySTL.git
+$ git clone git@github.com:pigkoukou/MYTestTinySTL
+.git
 $ cd MyTinySTL
 ```
   2. 构建并运行
@@ -34,14 +36,17 @@ $ cd ../bin && ./stltest
 ```
 
   * msvc on windows
-  1. 克隆仓库或 [Download ZIP](https://github.com/pigkoukou/MyTinySTL/archive/master.zip)
+  1. 克隆仓库或 [Download ZIP](https://github.com/pigkoukou/MYTestTinySTL
+/archive/master.zip)
   2. 使用 `vs2015`（或 `vs2017`）打开 `MSVC/MyTinySTL_VS2015.sln`，配置成 `Release` 模式，（Ctrl + F5）开始执行。
   
 ## 文档
-  见 [Wiki](https://github.com/pigkoukou/MyTinySTL/wiki)。
+  见 [Wiki](https://github.com/pigkoukou/MYTestTinySTL
+/wiki)。
 
 ## 测试
-  见 [Test](https://github.com/pigkoukou/MyTinySTL/tree/master/Test)。
+  见 [Test](https://github.com/pigkoukou/MYTestTinySTL
+/tree/master/Test)。
 
 ---
 ## SGI-STL V3.3 源代码的学习
@@ -52,7 +57,8 @@ $ cd ../bin && ./stltest
   + SGI STL 内部私用文件(SGI STL 真正实现于此)
   
 * The Annotated STL Sources V3.3(学习源代码的注释)
-  + [容器 (container)](https://github.com/steveLauwh/SGI-STL/tree/master/The%20Annotated%20STL%20Sources%20V3.3/container) ：序列式容器 (sequence container) 和 关联式容器 (associattive container)
+  + [容器 (container)](https://github.com/pigkoukou/MYTestTinySTL
+/SGI-STL/tree/master/The%20Annotated%20STL%20Sources%20V3.3/container) ：序列式容器 (sequence container) 和 关联式容器 (associattive container)
   + [算法 (algorithm)](https://github.com/steveLauwh/SGI-STL/tree/master/The%20Annotated%20STL%20Sources%20V3.3/algorithm)
   + [迭代器 (iterator)](https://github.com/steveLauwh/SGI-STL/tree/master/The%20Annotated%20STL%20Sources%20V3.3/iterator)
   + [仿函数或函数对象 (functor / function object)](https://github.com/steveLauwh/SGI-STL/tree/master/The%20Annotated%20STL%20Sources%20V3.3/functor-function%20object)
