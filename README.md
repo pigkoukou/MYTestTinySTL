@@ -41,7 +41,7 @@ $ cd ../bin && ./stltest
   见 [Wiki](https://github.com/pigkoukou/MyTinySTL/wiki)。
 
 ## 测试
-  见 [Test](https://github.com/Alinshans/MyTinySTL/tree/master/Test)。
+  见 [Test](https://github.com/pigkoukou/MyTinySTL/tree/master/Test)。
 
 ---
 ## SGI-STL V3.3 源代码的学习
