@@ -59,7 +59,7 @@ $ cd ../bin && ./stltest
   + [迭代器 (iterator)](https://github.com/pigkoukou/MYTestTinySTL/tree/main/SGI-STL-master/The%20Annotated%20STL%20Sources%20V3.3/iterator)
   + [仿函数或函数对象 (functor / function object)](https://github.com/pigkoukou/MYTestTinySTL/tree/main/SGI-STL-master/The%20Annotated%20STL%20Sources%20V3.3/functor-function%20object)
   + [配接器(adapter)](https://github.com/pigkoukou/MYTestTinySTL/tree/main/SGI-STL-master/The%20Annotated%20STL%20Sources%20V3.3/adapter)
-  + [配置器(allocator)]https://github.com/pigkoukou/MYTestTinySTL/tree/main/SGI-STL-master/The%20Annotated%20STL%20Sources%20V3.3/allocator)
+  + [配置器(allocator)](https://github.com/pigkoukou/MYTestTinySTL/tree/main/SGI-STL-master/The%20Annotated%20STL%20Sources%20V3.3/allocator)
 
 * SGI-STL Test(代码测试)
 
